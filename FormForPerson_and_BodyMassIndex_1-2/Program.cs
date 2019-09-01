@@ -60,6 +60,7 @@ namespace _1_2_FormForPerson_and_BodyMassIndex
             //используя вывод со знаком $
             WriteLine($"Ваш индекс массы тела (ИМТ) составляет { person.BodyMassIndex()}");
             ReadLine();
+
         }
     }
 
